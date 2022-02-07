@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My third try</string>
+    <string name="txtCorrectScore"> "Du fikk %1$s ut av %2$s rett."</string>
+</resources>
